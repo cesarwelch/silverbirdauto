@@ -1,0 +1,15 @@
+{
+  "id": "36fa5809-1d0c-4ad0-822a-1f90459dde45",
+  "name": "Silverbird Staging",
+  "values": [
+    {
+      "key": "SilverBird",
+      "value": "http://silverbird-staging.acklenavenueclient.com",
+      "description": "",
+      "enabled": true
+    }
+  ],
+  "_postman_variable_scope": "environment",
+  "_postman_exported_at": "2018-09-26T23:44:22.543Z",
+  "_postman_exported_using": "Postman/6.3.0"
+}

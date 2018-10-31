@@ -1,0 +1,15 @@
+{
+  "id": "a41307d6-b643-4003-a32f-25a89c5cc714",
+  "name": "SilverBird Dev",
+  "values": [
+    {
+      "key": "SilverBird",
+      "value": "http://silverbird-dev.acklenavenueclient.com",
+      "description": "",
+      "enabled": true
+    }
+  ],
+  "_postman_variable_scope": "environment",
+  "_postman_exported_at": "2018-09-26T22:47:42.304Z",
+  "_postman_exported_using": "Postman/6.3.0"
+}
